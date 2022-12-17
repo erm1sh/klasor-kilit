@@ -3,4 +3,4 @@
 
 | İletişim | Adres |
 | ------ | ------ |
-| LinkTree | linktr.ee/erm1sh |
+| LinkTree | https://linktr.ee/erm1sh |
